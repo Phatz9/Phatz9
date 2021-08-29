@@ -7,7 +7,7 @@ I'm **Phat**, a student at SW2.
 
 - 🔭 I’m currently working on [Lisha](https://discord.com/oauth2/authorize?client_id=859759741580476456&permissions=8&scope=bot)
 - 🌱 I’m currently learning HTML & CSS
-- 📫 How to reach me: **Money**
+- 📫 How to reach me: Read Below!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: uhm later 
 - 🔥 Fav Anime: Saijaku Muhai no Bahamut
@@ -15,16 +15,8 @@ I'm **Phat**, a student at SW2.
 ---
 
 #### :star2: Feel free to contact me!
-<img src="https://i.pinimg.com/originals/96/39/c3/9639c305451f622790a1b5ce1f253b44.gif" align="right" width="373.5px"
-    height="208.5px">
+[![Discord Badge](https://img.shields.io/badge/Phat%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/795621503101042696) [![Facebook Badge](https://img.shields.io/badge/-Phatt-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/KonoNineDa)](https://www.facebook.com/KonoNineDa) [![Instagram Badge](https://img.shields.io/badge/-phatz9_-pink?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/phatz9_/)](https://www.instagram.com/phatz9_/) [![Twitter Badge](https://img.shields.io/badge/-Phattz20-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Phattz20)](https://twitter.com/Phattz20) [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?logo=messenger&style=for-the-badge&logoColor=white)](https://discord.com/invite/Vkr6MbK75E) [![Twitch Badge](https://img.shields.io/badge/phattara17%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/phattara17) [![Gmail Badge](https://img.shields.io/badge/-ninepatthara1711@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ninepatthara1711@gmail.com)](mailto:ninepatthara1711@gmail.com) 
 <br>
 <p align="center">
+<img src="https://i.pinimg.com/originals/96/39/c3/9639c305451f622790a1b5ce1f253b44.gif" width="500px" height="250px">
 </p>
-<p align="center"><a href="https://twitter.com/Phattz20" target="_blank"><img
-            src="https://img.shields.io/badge/Phattz20%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    <a href="https://discord.io/phatt" target="_blank"><img
-            src="https://img.shields.io/badge/Phat%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-<p align="center"><a href="https://twitch.tv/phattara17" target="_blank"><img
-            src="https://img.shields.io/badge/phattara17%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-            <p align="right"><a href="https://twitch.tv/phattara17" 
