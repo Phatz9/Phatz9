@@ -7,7 +7,6 @@ I'm **Phat**, a student at SW2.
 
 - 🔭 I’m currently working on [Cosette](https://discord.com/oauth2/authorize?client_id=859759741580476456&permissions=8&scope=bot)
 - 🌱 I’m currently learning HTML & CSS
-- 📫 How to reach me: Read Below!
 - 😄 Pronouns: he/him
 - 🔥 Fav Anime: Saijaku Muhai no Bahamut
 
