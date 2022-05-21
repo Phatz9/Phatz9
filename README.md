@@ -1,20 +1,32 @@
-## Hey, phatz9 here! :wave:
+```ts
+import { Person } from 'earth';
 
-[<img align="right" width="50%"
-    src="https://github-readme-stats.vercel.app/api?username=phatz9&theme=material-palenight&show_icons=true">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-I'm **Phat**, a student at SW2.
-
-- 🔭 I’m currently working on []
-- 🌱 I’m currently learning React & TypeScript
-- 😄 Pronouns: he/him
-- 🔥 Fav Anime: Saijaku Muhai no Bahamut
-
----
-
-#### :star2: Feel free to contact me!
-[![Discord Badge](https://img.shields.io/badge/Phat%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/795621503101042696) [![Facebook Badge](https://img.shields.io/badge/-Phatt-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/KonoNineDa)](https://www.facebook.com/KonoNineDa) [![Instagram Badge](https://img.shields.io/badge/-phatz9_-pink?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/phatz9_/)](https://www.instagram.com/phatz9_/) [![Twitter Badge](https://img.shields.io/badge/-Phattz20-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Phattz20)](https://twitter.com/Phattz20) [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?logo=messenger&style=for-the-badge&logoColor=white)](https://www.messenger.com/t/100042735912799/) [![Twitch Badge](https://img.shields.io/badge/phattara17%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/phattara17) [![Github Badge](https://img.shields.io/badge/phatz9-black?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Phatz9)](https://github.com/Phatz9)
-<br>
+export class Phat extends Person {
+	public constructor() {
+		super(options);
+		this.name = 'Phat';
+		this.age = 15;
+		this.gender = 'Male';
+		this.single = true;
+		this.contact = 'https://lit.link/Phat';
+	}
+};
+```
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/795621965884817429/969904379014557726/Rikka.gif" width="500px" height="250px">
+	<a href="https://discord.com/users/795621503101042696" target="_blank">
+		<img 
+			width="53%" 
+			align="center" 
+			alt="Discord Status" 
+			src="https://lanyard.cnrad.dev/api/795621503101042696?bg=1f1f1f&borderRadius=5px"
+		/>
+	</a>
+	<a href="https://wakatime.com/@Phat" target="_blank">
+		<img
+			width="44%"
+			align="right"
+			alt="Weekly Stats"
+			src="https://github-readme-stats.vercel.app/api/wakatime?username=Phat&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats"
+		/>
+	</a>
 </p>
