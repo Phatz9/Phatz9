@@ -8,7 +8,7 @@ export class Phat extends Person {
 		this.age = 15;
 		this.gender = 'Male';
 		this.single = true;
-		this.contact = 'https://lit.link/Phat';
+		this.contact = 'beacons.ai/9phat';
 	}
 };
 ```
