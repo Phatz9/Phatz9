@@ -1,16 +1,7 @@
 ```ts
-import { Person } from 'earth';
-
-export class Phat extends Person {
-	public constructor() {
-		super(options);
-		this.name = 'Phat';
-		this.age = 15;
-		this.gender = 'Male';
-		this.single = true;
-		this.contact = 'beacons.ai/9phat';
-	}
-};
+/*
+Ye
+*/
 ```
 <p align="center">
 	<a href="https://discord.com/users/795621503101042696" target="_blank">
